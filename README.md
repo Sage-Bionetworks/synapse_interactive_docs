@@ -1,6 +1,6 @@
 # Synapse Interactive Docs
 
-This is a repository for the proof of concept of the jupyter based documentation for Synapse.  
+This is a repository for the jupyter based documentation for Synapse.  
 
 ## Steps to get started
 
